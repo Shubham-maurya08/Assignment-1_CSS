@@ -1,0 +1,43 @@
+h1{
+    color: #CD0D0D;
+}
+
+h2{
+    color: #DE5A2A;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+li{
+    color: #A52A2A;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+.unordered{
+    letter-spacing: 4px;
+}
+
+.marge{
+    margin: 0%;
+    padding: 1px;
+}
+
+.background{
+    background: yellow;
+}
+
+.decor{
+    text-decoration: line-through;
+}
+
+p{
+    color: #A52A2A;
+    padding: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    background: yellow;
+    color: red;
+}
